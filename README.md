@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/haoliangyu/awesome-koop)
 
-Curated list of awesome Koop resources
+Curated list of awesome [Koop](https://koopjs.github.io/) resources
 
 ## Dev Tools
 * [Koop CLI](https://github.com/koopjs/koop-cli), a cross-platform CLI tool to build Koop applications and plugins
