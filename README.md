@@ -1,5 +1,7 @@
 # awesome-koop
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/haoliangyu/awesome-koop)
+
 Curated list of awesome Koop resources
 
 ## Dev Tools
