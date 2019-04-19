@@ -10,6 +10,7 @@ A curated list of awesome [Koop](https://koopjs.github.io/) resources
 ## Presentations
 
 * [Koop: Using 3rd Party Services in ArcGIS](http://proceedings.esri.com/library/userconf/devsummit17/papers/dev_int_157.pdf), Esri DevSummit 2017
+* [Koop: The Good Parts](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_124.pdf), Esri DevSummit 2016
 * [All your database are belong to us - Koop, Cloudant, Feature Services](https://www.slideshare.net/rajrsingh/all-your-database-are-belong-to-us-koop-cloudant-feature-services)
 
 ## Use Cases
