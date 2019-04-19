@@ -18,3 +18,6 @@ A curated list of awesome [Koop](https://koopjs.github.io/) resources
 * [ArcGIS Hub](https://hub.arcgis.com/)
   * [Integrating Open Data](https://mjuniper.github.io/presentations/ds2017/integrating-opendata#/)
   * [Developing with ArcGIS Open Data](https://mjuniper.github.io/presentations/opendata-api-2016#/)
+
+* [MarkLogic](https://www.marklogic.com/)
+  * [Esri and MarkLogic:  Location Analytics, Multi-Model Data](https://cdn1.marklogic.com/wp-content/uploads/2018/06/MLW18-Esri-and-ML-Location-Analytics-Multi-Model-Data.pdf)
