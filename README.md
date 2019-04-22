@@ -6,6 +6,7 @@ A curated list of awesome [Koop](https://koopjs.github.io/) resources
 
 ## Dev Tools
 * [Koop CLI](https://github.com/koopjs/koop-cli), a cross-platform CLI tool to build Koop applications and plugins
+* [create-koop-app](https://github.com/haoliangyu/create-koop-app), experimental APIs to generate Koop applications and plugins
 
 ## Presentations
 
