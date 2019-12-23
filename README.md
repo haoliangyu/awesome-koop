@@ -23,3 +23,5 @@ A curated list of awesome [Koop](https://koopjs.github.io/) resources
 
 * [MarkLogic](https://www.marklogic.com/)
   * [Esri and MarkLogic:  Location Analytics, Multi-Model Data](https://cdn1.marklogic.com/wp-content/uploads/2018/06/MLW18-Esri-and-ML-Location-Analytics-Multi-Model-Data.pdf)
+
+* [Center Pivot Irrigation Monitor](https://devpost.com/software/stl-secret-project)
