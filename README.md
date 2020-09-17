@@ -8,8 +8,14 @@ A curated list of awesome [Koop](https://koopjs.github.io/) resources
 * [Koop CLI](https://github.com/koopjs/koop-cli), a cross-platform CLI tool to build Koop applications and plugins
 * [create-koop-app](https://github.com/haoliangyu/create-koop-app), experimental APIs to generate Koop applications and plugins
 
+## Official
+* [Documentation](https://koopjs.github.io/docs/basics/what-is-koop)
+* [Blog](https://koopjs.github.io/blog/2020/07/01/koop-v-4-0-0/)
+* [Plugin List](https://koopjs.github.io/docs/available-plugins/providers)
+
 ## Presentations
 
+* [Use Koop to Connect Any Data Source to ArcGIS](https://www.esri.com/content/dam/esrisites/en-us/events/conferences/2020/developer-summit/use-koop-to-connect-any-data-source-to-arcgis.pdf), Esri DevSummit 2020
 * [Koop: Using 3rd Party Services in ArcGIS](http://proceedings.esri.com/library/userconf/devsummit17/papers/dev_int_157.pdf), Esri DevSummit 2017
 * [Deploying with Docker and Kubernetes](https://proceedings.esri.com/library/userconf/devsummit17/papers/dev_int_28.pdf), Esri DevSummit 2017
 * [Koop: The Good Parts](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_124.pdf), Esri DevSummit 2016
